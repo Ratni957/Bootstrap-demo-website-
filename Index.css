@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+.fa{
+    color:blue
+   
+}
+
+span{
+    font-size:14px
+}
+a{
+    border-bottom:1px solid blue
+}
+.box-part{
+    background-color:white;
+    margin: 30px 0px;
+    padding:  60px 10px;
+}
+
+.box{
+    padding: 60px 0px;
+}
+.text{
+    margin: 20px 1px;
+
+}
